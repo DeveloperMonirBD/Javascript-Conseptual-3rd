@@ -18,7 +18,7 @@ function function_name(){
 //     console.log(name)
 // }
 
-// showName("Monir",26,"rajshahi")
+// showName("Monir",26,"Jashore")
 
 // function add(x,y){
 //     const total = x + y;
@@ -38,12 +38,11 @@ function function_name(){
 
 /*
 TYPES OF FUNCTIONS (4)
-
 */
 
 // 1. NO PARAMETERS NO RETURN
 function show() {
-    console.log('hello');
+    console.log('Hello World !!');
 }
 
 // 2. Parameters with no return
@@ -59,7 +58,7 @@ function giveName() {
 
 // 4. Parameters with return
 function giveDouble(x) {
-    return x * 2;
+    return x * 4;
 }
 
 // const result = giveDouble(2)

@@ -14,6 +14,9 @@ biggest = 23;
 biggest = 23;
 */
 
+
+// const numbers = [2, 4, 21, 5, 6, 23, 20, 9];
+
 // let biggest = numbers[0];
 // console.log("before loop: ",biggest)
 // for (let i = 1; i < numbers.length; i++) {

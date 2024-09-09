@@ -1,5 +1,5 @@
 
-// amar name mehedy, amar basa rajshahi
+// amar name Monir, amar basa Jashore
 
 // function showInfo(info) {
 
@@ -12,8 +12,8 @@
 // }
 
 // const person = {
-//     name: "mehedy",
-//     address: "Rajshahi"
+//     name: "monir",
+//     address: "jashore"
 // }
 // const x = showInfo(person)
 // console.log(x)
@@ -24,7 +24,7 @@ const person = {
 }
 
 
-// output: mehedy@rajshahi.com
+// output: monir@jashore.com
 
 function createEmail(info) {
     if (typeof info !== "object") {
